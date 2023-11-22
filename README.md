@@ -7,6 +7,7 @@ Starts 2 dockers:
 
 All changes save locally
 
+tags: #docker #dockerfile #docker-compose #mysql #node
 
 # Getting started
 
